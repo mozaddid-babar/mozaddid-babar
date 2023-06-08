@@ -20,15 +20,6 @@ Skills: REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mozaddidbabar)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozaddidbabar)](https://github.com/anuraghazra/github-readme-stats)
-
-
- 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mozaddidbabar)  
-
-![Profile views](https://gpvc.arturio.dev/Mozaddidbabar)  
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozaddidbabar&show_icons=true&locale=en&layout=compact" alt="mozaddidbabar" /></p>
 
