@@ -8,6 +8,8 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mozaddidbabar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mozaddidbabar)  
 
+![GitHub metrics](https://metrics.lecoq.io/Mozaddidbabar) 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mozaddidbabar)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mozaddidbabar&show_icons=true&count_private=true)  
@@ -17,7 +19,7 @@ Skills: REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozaddidbabar)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub metrics](https://metrics.lecoq.io/Mozaddidbabar)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mozaddidbabar)  
 
