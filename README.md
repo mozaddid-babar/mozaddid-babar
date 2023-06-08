@@ -5,10 +5,15 @@
 
 Skills: REACT / JS / HTML / CSS
 
+<div style="display: flex; align-items: center;" >
+  ![GitHub metrics](https://metrics.lecoq.io/Mozaddidbabar) 
+ 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mozaddidbabar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mozaddidbabar)  
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mozaddidbabar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mozaddidbabar)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mozaddidbabar) 
+
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mozaddidbabar)  
 
