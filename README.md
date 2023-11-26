@@ -46,16 +46,16 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 - Solved more than **600+** programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
 - **Online Judges Handles:**
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/Mozaddid_Babar/) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/Mozaddid_babar) [![UVa Online Judge](https://img.shields.io/badge/UVa%20Online%20Judge-Profile-A9225C)](https://www.beecrowd.com.br/judge/en/profile/217927) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-orange)](https://www.hackerrank.com/profile/hstu_prodigies) 
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/Mozaddid_Babar/) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-indigo)](https://codeforces.com/profile/Mozaddid_babar) [![UVa Online Judge](https://img.shields.io/badge/UVa%20Online%20Judge-Profile-A9225C)](https://www.beecrowd.com.br/judge/en/profile/217927) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/hstu_prodigies) [![Codechef](https://img.shields.io/badge/Codechef-Profile-blue)](https://www.codechef.com/users/babar98)
 
 
 
-<!-- #### Talks about
+#### Talks about
 
 [![C/C++ Badge](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#) [![React.js Badge](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=white)](#) [![Competitive Programming Badge](https://img.shields.io/badge/Competitive%20Programming-FFD700?style=for-the-badge)](#) [![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)](#)
 
 
- -->
+
 <!-- 
 ### Personal Projects
 
