@@ -42,13 +42,14 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 - **Seminer & Workshop Secretary**  
   - [Programmers Arena](https://www.facebook.com/groups/pa.hstu), Remote, Full-time 
   - July 2018 - April 2021
-    - A three-time Intra University Programming Contest Champion and four-time Inter-University Programming Contest participant, I have honed my analytical and problem-solving skills, demonstrating a deep passion for programming and a commitment to continuous self-improvement.
+    - A three-time Intra University Programming Contest **Champion** and four-time Inter-University Programming Contest participant, I have honed my analytical and problem-solving skills, demonstrating a deep passion for programming and a commitment to continuous self-improvement.
     - Have excelled in programming as the Seminar & Workshop Secretary at Programmers Arena, where I conducted workshops and organized seminars to foster skill development.
 
 
 ### Programming Skill
 
-- Solved more than **600+** programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
+- Solved more than **600+** programming problems on several online judges like Leetcode, Codeforces, UVa Online Judge, Hackerrank, Codechef etc.
+
 - **Online Judges Handles:**
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/Mozaddid_Babar/) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-indigo)](https://codeforces.com/profile/Mozaddid_babar) [![UVa Online Judge](https://img.shields.io/badge/UVa%20Online%20Judge-Profile-A9225C)](https://www.beecrowd.com.br/judge/en/profile/217927) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/hstu_prodigies) [![Codechef](https://img.shields.io/badge/Codechef-Profile-blue)](https://www.codechef.com/users/babar98)
@@ -72,24 +73,26 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
         <th>Links</th>
     </tr>
     <tr>
-        <td>Student Aid</td>
-        <td>A comprehensive platform developed using Node.js, Express.js, and React.js to support financially disadvantaged students in fundraising for their education. It employs MongoDB with Mongoose for data storage and implements a robust Student Verification System. Additionally, it integrates a secure Payment Gateway using SSLCOMMERZ for safe transactions.</td>
-        <td>Node.js, Express.js, React.js, MongoDB, Mongoose</td>
-        <td><a href="https://github.com/hr-sobuj/student-aid-api">Backend</a>, <a href="https://github.com/hr-sobuj/student-aid-frontend">Frontend</a>, <a href="https://student-aid-frontend-gilt.vercel.app/">Live</a></td>
+        <td>Dragon News Portal</td>
+        <td>A cutting-edge platform using Node, Express, and React JS that enhances the remote reading experience for news articles.</td>
+        <td>Node.js, Express.js, React.js, MongoDB</td>
+        <td><a href="https://github.com/mozaddid-babar/the-dragon-news-server">Backend</a>, <a href="https://github.com/mozaddid-babar/the-dragon-news-client">Frontend</a>, <a href="https://the-dragon-news-client-2fab8.web.app/category/0">Live</a></td>
     </tr>
     <tr>
-        <td>Project Management Application</td>
-        <td>Track developer activity and project progress with the Django Rest Framework backend and React.js frontend. Developers update project status; managers create projects, assign developers, and generate work reports. Focus on scalability, performance, and user-friendly project visualization.</td>
-        <td>Django Rest Framework, React.js</td>
-        <td><a href="https://github.com/hr-sobuj/project-management-api.git">Backend</a>, <a href="https://github.com/hr-sobuj/project-management-frontend.git">Frontend</a>,  <a href="https://project-management-frontend-two.vercel.app/">Live</a></td>
+        <td>Ema-John</td>
+        <td>A straightforward e-commerce platform featuring the latest trending products and keeping track of users purchase history and
+incorporate essential commerce functionalities.
+</td>
+        <td>Node.js, Express.js, React.js, MongoDB</td>
+        <td><a href="https://github.com/mozaddid-babar/Ema-John-Private-Route-Module-59">Frontend</a>, <a href="https://ema-john-firebase-auth-eaf32.web.app/?_gl=1*pyq7eo*_ga*MjEyMDYyMzI5MC4xNjk3OTcwODAw*_ga_CW55HF8NVT*MTY5Nzk3MDgwMC4xLjEuMTY5Nzk3MTU2MS40My4wLjA.">Live</a></td>
     </tr>
     <tr>
-        <td>Chat Application</td>
-        <td>A live chat application developed with Node.js, Express.js, and Ejs for server-side development. It uses MongoDB with Mongoose for data storage and Socket.io for concurrent user connections. Custom authentication is implemented using pure Node.js, and JWT generation ensures security.</td>
-        <td>Node.js, Express.js, Ejs, MongoDB, Socket.io</td>
-        <td><a href="https://github.com/hr-sobuj/chat-application">Backend</a>, <a href="http://chat-application.hrsobuj.com/">Live</a></td>
+        <td>Todo List</td>
+        <td>Todo list web application that helps users efficiently organize tasks, and manage their daily activities with user-friendly features for task creation and completion.</td>
+        <td>Node.js, Express.js, Tailwind CSS, MongoDB</td>
+        <td><a href="https://github.com/mozaddid-babar/Todo-List">Frontend</a>, <a href="https://todo-list-kappa-blue.vercel.app/">Live</a></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>Quiz Application</td>
         <td>An authentication-based quiz application that allows users to play quizzes and provides detailed results with correct answers. It's built using React.js and utilizes Firebase for smooth functionality.</td>
         <td>React.js, Firebase</td>
@@ -154,11 +157,11 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
         <td>An elegant and user-friendly layout for bloggers. With its clean design and HTML/CSS foundation, it's a great choice for sharing your thoughts and content online.</td>
         <td>HTML, CSS</td>
         <td><a href="https://hr-sobuj.github.io/blog/">Live</a></td>
-    </tr>
+    </tr> -->
 </table>
 
 
-### Open Source Projects & Contributions
+<!-- ### Open Source Projects & Contributions
 
 - **Express Auth Guard**
 
@@ -174,29 +177,29 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 
 - [Reversing a String in JavaScript with Array Destructuring](https://hr-sobuj.blogspot.com/2023/10/reversing-string-in-javascript-with.html)
 
-🔗 [Read More on My Blog](https://hr-sobuj.blogspot.com/)
+🔗 [Read More on My Blog](https://hr-sobuj.blogspot.com/) -->
 
 
 ### Contact
 
-:mailbox_with_mail: &emsp;[sobuj.hrs@gmail.com](mailto:sobuj.hrs@gmail.com)
+:mailbox_with_mail: &emsp;[babar.mozaddid@gmail.com](mailto:babar.mozaddid@gmail.com)
 
-:mailbox_with_mail: &emsp;[sobujhd@gmail.com](mailto:sobujhd@gmail.com)
+:mailbox_with_mail: &emsp;[babar.mozaddid98@gmail.com](mailto:babar.mozaddid98@gmail.com)
 
 
 
 ### Education
 
 - **Bachelor of Computer Science and Engineering (CSE)**
-  - Hajee Mohammad Danesh Science and Technology University, Dianjpur.
   - Major: Computer Science and Engineering (CSE)
+  - Hajee Mohammad Danesh Science and Technology University, Dianjpur.
   - Graduation Date: November 2023
 
 
 ### GitHub Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-sobuj) ![Habibur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-sobuj&show_icons=true) 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hr-sobuj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaddid-babar) ![Babar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozaddid-babar&show_icons=true) 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mozaddid-babar)
 
 
 ### Articles Read
