@@ -30,15 +30,20 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 ### Experience
 
 - **Research Assistant**  
-  - [HSTU Research Lab](https://employin.co/), Full-time  
+  - [HSTU Research Lab](), Full-time  
   - September 2022 – January 2023
     - Engaged in cutting-edge biomedical signal processing at HSTU Research Lab, under the expert guidance of Professors Md. Emran Ali and Md. Sohrawordi, contributing to advancements in healthcare technology through projects focused on ECGs and EEGs.
     - Collaborated with a diverse team of biomedical engineers, doctors, and statisticians, gaining valuable multidisciplinary experience and honing skills in algorithm design and interpretation of physiological data over a year-long tenure.
 - **Research Assistant**  
-  - [Institute of Research & Training, HSTU](https://www.sagebyte.co/), Remote, Full-time 
+  - [Institute of Research & Training, HSTU](), Remote, Full-time 
   - July 2020 - June 2021
     - Implemented a Biometric Attendance System using a Raspberry Pi 4, GROW R307 Fingerprint Module, and Django/Java Spring Boot. Under the supervision of Dr. Md. Arshad Ali.
     - The system streamlined attendance management in educational institutions, offering a user-friendly interface, wireless operation, and efficient functionality for accurate attendance tracking and fraud prevention.
+- **Seminer & Workshop Secretary**  
+  - [Programmers Arena](https://www.facebook.com/groups/pa.hstu), Remote, Full-time 
+  - July 2018 - April 2021
+    - A three-time Intra University Programming Contest Champion and four-time Inter-University Programming Contest participant, I have honed my analytical and problem-solving skills, demonstrating a deep passion for programming and a commitment to continuous self-improvement.
+    - Have excelled in programming as the Seminar & Workshop Secretary at Programmers Arena, where I conducted workshops and organized seminars to foster skill development.
 
 
 ### Programming Skill
