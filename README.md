@@ -1,4 +1,4 @@
-![Github Banner](assets/banner.jpeg)
+![Github Banner](assets/banner.jpg)
 
 ## Hey, Tech wizard! <img src="assets/hello.gif" width="28px" alt="hi">
 
@@ -56,7 +56,7 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 
 
 
-<!-- 
+
 ### Personal Projects
 
 <table>
@@ -196,4 +196,4 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 
 ### Articles Read
 
-<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=c6d" width="400" height="auto" alt="Habibur Rahman's Dev Card"/></a> -->
+<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=c6d" width="400" height="auto" alt="Habibur Rahman's Dev Card"/></a>
