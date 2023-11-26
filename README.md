@@ -34,20 +34,20 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
   - September 2022 – January 2023
     - Engaged in cutting-edge biomedical signal processing at HSTU Research Lab, under the expert guidance of Professors Md. Emran Ali and Md. Sohrawordi, contributing to advancements in healthcare technology through projects focused on ECGs and EEGs.
     - Collaborated with a diverse team of biomedical engineers, doctors, and statisticians, gaining valuable multidisciplinary experience and honing skills in algorithm design and interpretation of physiological data over a year-long tenure.
-- **Full Stack Web Developer**  
+<!-- - **Full Stack Web Developer**  
   - [SageByte](https://www.sagebyte.co/), Remote, Part-time 
   - May 2022 - October 2022
     - Collaborated in a team to develop visually appealing, responsive websites.
     - Translated design mockups into functional interfaces using HTML, CSS, Tailwind CSS, and React.js to create an engaging user experience.
-    - Optimized frontend performance for faster loading.
+    - Optimized frontend performance for faster loading. -->
 
 
 ### Programming Skill
 
-- Solved more than **400+** programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
+- Solved more than **600+** programming problems on several online judges like Leetcode, Codeforces, URI Online Judge, etc.
 - **Online Judges Handles:**
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/hr-sobuj/) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/sobujhstu18) [![URI Online Judge](https://img.shields.io/badge/URI%20Online%20Judge-Profile-yellow)](https://www.beecrowd.com.br/judge/en/profile/217927) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-orange)](https://www.hackerrank.com/profile/hrsobuj) 
+  <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/hr-sobuj/) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/sobujhstu18) [![URI Online Judge](https://img.shields.io/badge/URI%20Online%20Judge-Profile-yellow)](https://www.beecrowd.com.br/judge/en/profile/217927) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-orange)](https://www.hackerrank.com/profile/hrsobuj)  -->
 
 
 
@@ -57,7 +57,7 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 
 
  -->
-
+<!-- 
 ### Personal Projects
 
 <table>
@@ -197,4 +197,4 @@ I'm Mozaddid Babar, a Frontend Developer from <img src="assets/bangladesh.png" w
 
 ### Articles Read
 
-<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=c6d" width="400" height="auto" alt="Habibur Rahman's Dev Card"/></a>
+<a href="https://app.daily.dev/hrsobuj"><img src="https://api.daily.dev/devcards/d1b6ee3ee2ee483ca67d2b774ed6d4e6.png?r=c6d" width="400" height="auto" alt="Habibur Rahman's Dev Card"/></a> -->
